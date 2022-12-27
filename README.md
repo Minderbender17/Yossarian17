@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Yossarian17
+- 👀 I’m interested in R programming language for literary data analysis.
+- 🌱 I’m a beginner who doesn't know anything about R and data mining
+- 💞️ I’m looking forward to collaborate on learning R.
